@@ -1,0 +1,16 @@
+i {
+    cursor:pointer;
+}
+
+i:hover{
+    filter:brightness(80%)
+}  
+
+body.dark-mode {
+background-color: black !important;
+}
+
+input[type=checkbox]:checked{
+    background-color: blueviolet ;
+    border: 1px solid blanchedalmond ;
+}
